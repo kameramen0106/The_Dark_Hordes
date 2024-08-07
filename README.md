@@ -11,7 +11,7 @@ Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes.
 **(Intermediate level, 12 scenarios of 17 completed.)**
 
 **NOTE:** This campaign is currently undergoing rework and maintenance.
-I am looking for ideas and feedback. Please read the forum thread for more
+I am looking for ideas and feedback. Please read the forum topic for more
 details on the project.
 
 
@@ -19,7 +19,7 @@ Installing The Dark Hordes
 --------------------------
 
 Released versions of TDH are available from the official Battle for Wesnoth
-add-on server; players who know how to use Git may be able to clone TDH
+add-ons server; players who know how to use Git may be able to clone TDH
 from the [main repository][2] on GitHub.
 
 [2]: <https://github.com/kameramen0106/The_Dark_Hordes>
