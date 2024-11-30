@@ -1,6 +1,12 @@
 The Dark Hordes - changelog
 ---------------------------
 
+Version 0.7.2
+- General:
+    * Modify description
+- Units
+    * Fix image path bug (Demilich)
+
 Version 0.7.1+svn-2
 - General:
     * Campaign updated for 1.18
