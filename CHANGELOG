@@ -2,10 +2,15 @@ The Dark Hordes - changelog
 ---------------------------
 
 Version 0.8.0
+- Administration and maintenance:
+    * Pilot release for 1.18
 - General:
     * Add a macro (base-utils/_main.cfg)
     * Ran wmlindent
     * Ran wmllint
+    * Improved item macros
+- Music and sound effects:
+    * Added music: gameplay06.ogg
 - Scenarios
     * Balancing, gold carryover overhaul, minor fixes
     * Flag variations added
