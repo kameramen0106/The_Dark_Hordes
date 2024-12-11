@@ -1,6 +1,13 @@
 The Dark Hordes - changelog
 ---------------------------
 
+Version 0.7.2+dev
+- General:
+    * Add .gitignore
+    * Minor fixes
+- Translations from Wescamp
+    * Deleted translations: ca_ES@valencia, id, nb_NO, sr@ijekavian, sr@ijekavianlatin
+
 Version 0.7.2
 - General:
     * Modify description
