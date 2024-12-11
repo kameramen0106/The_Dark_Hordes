@@ -1,7 +1,16 @@
 The Dark Hordes - changelog
 ---------------------------
 
-Version 0.7.2+dev
+Version 0.8.0
+- General:
+    * Add a macro (base-utils/_main.cfg)
+    * Ran wmlindent
+    * Ran wmllint
+- Scenarios
+    * Balancing, gold carryover overhaul, minor fixes
+    * Flag variations added
+
+Version 0.7.2+dev (unreleased)
 - General:
     * Add .gitignore
     * Minor fixes
