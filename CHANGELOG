@@ -5,8 +5,18 @@ Version 0.7.2+dev
 - General:
     * Add .gitignore
     * Minor fixes
+- Scenarios:
+    * 07 - Confrontation:
+        + Change the starting point for Leonard
+    * 08 - Underground Pool:
+        + Correct bottlenecks (minimally)
+    * 11 - An Orcish Coup
+        + Completed map.
+    * Miscellaneous:
+        + Minimal overhaul and appearance adjustments;
+          using Wesnoth 1.10 editor.
 - Translations from Wescamp
-    * Deleted translations: ca_ES@valencia, id, nb_NO, sr@ijekavian, sr@ijekavianlatin
+    * Deleted empty translations: ca_ES@valencia, id, nb_NO, sr@ijekavian, sr@ijekavianlatin
 
 Version 0.7.2
 - General:
