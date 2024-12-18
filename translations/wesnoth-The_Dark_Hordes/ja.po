@@ -1,0 +1,667 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-12-18 02:08 UTC\n"
+"PO-Revision-Date: 2024-12-18 11:08+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: The_Dark_Hordes/_main.cfg:20
+msgid "Version"
+msgstr "バージョン"
+
+#: The_Dark_Hordes/_main.cfg:21
+msgid "Feedback and bug reports:"
+msgstr "フィードバックとバグ報告:"
+
+#: The_Dark_Hordes/_main.cfg:25
+msgid "for Wesnoth 1.18.0 and later"
+msgstr "Wesnoth 1.18.0 以降用"
+
+#: The_Dark_Hordes/_main.cfg:28
+msgid "for Wesnoth 1.19.0 and later (experimental)"
+msgstr "Wesnoth 1.19.0 以降用（試験的）"
+
+#: The_Dark_Hordes/_main.cfg:38
+msgid "TDH"
+msgstr "TDH"
+
+#: The_Dark_Hordes/_main.cfg:39
+msgid "To be continued..."
+msgstr "続く......"
+
+#: The_Dark_Hordes/_main.cfg:40
+msgid "The Dark Hordes"
+msgstr "暗黒の大軍団"
+
+#: The_Dark_Hordes/_main.cfg:57
+msgid "Easy"
+msgstr "易しい"
+
+#: The_Dark_Hordes/_main.cfg:58
+msgid "Normal"
+msgstr "普通"
+
+#: The_Dark_Hordes/_main.cfg:59
+msgid "Hard"
+msgstr "難しい"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:63
+msgid "Episode I: Escape the Living"
+msgstr "エピソード I: 生の逃走"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:63
+msgid ""
+"This is the tale of an age when the glory of Wesnoth was transformed into "
+"arrogance. The fugitive necromancer Gwiti Ha’atel is resolved to master the "
+"undead hordes and exact his revenge against all who have betrayed him. His "
+"journey soon leaves his own hands, morphing into an enormous wave of "
+"power...\n"
+"\n"
+"(Intermediate level, 8 scenarios.)"
+msgstr ""
+"これは Wesnoth の栄光が傲慢へと姿を変えた時代の物語。逃走したネクロマンサー "
+"Gwiti Ha’atel は、アンデッドの大軍団を支配し、彼を裏切った全ての人々へ復讐を"
+"果たす事を決意した。彼の旅はやがて彼自身の手を離れ、巨大な力の波へと変貌を遂"
+"げる......\n"
+"\n"
+"（中級レベル、8 シナリオ）"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:73
+msgid "difficulty_menu^Apprentice"
+msgstr "見習い"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:74
+msgid "difficulty_menu^Shadow Mage"
+msgstr "影の魔術師"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:75
+msgid "difficulty_menu^Shadow Lord"
+msgstr "影の領主"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:79
+msgid "Episode II: The Death March"
+msgstr "エピソード II: 死の行軍"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:79
+msgid ""
+"At last, the deadly forces of Gwiti begin their invasion against Wesnoth. As "
+"the shadows of his rule terrorize the Kingdom and its people, they turn to "
+"the elven enchantress Elynia for their last hope. Will it be the Light or "
+"the Darkness that stands in the end? No one who knows — except for only "
+"one.\n"
+"\n"
+"(Intermediate level, 6 scenarios.)"
+msgstr ""
+"遂に Gwiti の死の力が Wesnoth に対する侵略を開始した。彼の支配する影が王国と"
+"その人々を恐怖に陥れる中、彼らは最後の望みをエルフの魔法使い Elynia に託す。"
+"最後に立っているのは光か、それとも闇なのか？知る者はただ一人を除いて存在しな"
+"かった。\n"
+"\n"
+"（中級レベル、6 シナリオ）"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:89
+msgid "difficulty_menu^Seeker"
+msgstr "求道者"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:90
+msgid "difficulty_menu^Walker"
+msgstr "巡礼者"
+
+#. [campaign]
+#: The_Dark_Hordes/_main.cfg:91
+msgid "difficulty_menu^Master"
+msgstr "支配者"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:4
+msgid "Creator and Original Designer"
+msgstr "制作者・オリジナル設計者"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:11
+msgid "Campaign Maintenance"
+msgstr "キャンペーン管理"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:18
+msgid "Previous Campaign Maintenance"
+msgstr "以前のキャンペーン管理"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:37
+msgid "Map Design Assistance"
+msgstr "マップデザイン支援"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:44
+msgid "Graphics"
+msgstr "美術"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:71
+msgid "Additional thanks to"
+msgstr "追加の謝辞"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:18
+msgid ""
+"Gwiti Ha’atel was born the son of a poor farmer in the northern reaches of "
+"Wesnoth and grew up alongside his elder brother, Nati, amidst the harsh and "
+"barren land. Their parents, determined to lift their sons out of a life of "
+"poverty and hardship, saved up bit by bit to enroll Gwiti and Nati into the "
+"Royal Academy of Medicine on the outskirts of Weldyn. Gwiti specialized in "
+"pharmacology and healing magic, while Nati focused primarily on surgery. "
+"Both excelled in their respective fields, maintaining exceptional grades. It "
+"was clear to anyone who saw them that they were destined to become among the "
+"greatest physicians of their time."
+msgstr ""
+"Gwiti Ha’atel は Wesnoth 北部の貧しい農夫の息子として生まれ、長兄の Nati と共"
+"に、荒れた土地の中で育ちました。彼らの両親は、少しずつ金を貯め、Gwiti と "
+"Nati を Weldyn 郊外にある王立医学アカデミーに入学させました。そうする事で息子"
+"達を、貧しく苦しい生活から抜け出させようと試みたのです。Gwiti は薬学と回復魔"
+"法を、Nati は主に外科を専門に学び、それぞれ優秀な成績を保ちました。彼らが偉大"
+"な医者の一人になる事は誰の目から見ても明らかでした。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:22
+msgid ""
+"However, ironically, their fate turned out to be anything but peaceful. In "
+"1094 YW, just as they were about to complete their training and take their "
+"first steps as physicians, the Black Plague swept across Wesnoth. This "
+"calamity spared no one, regardless of wealth or status, and claimed "
+"countless lives. Among the victims were Gwiti and Nati’s parents, who "
+"succumbed to the dreadful disease.\n"
+"\n"
+"The two Ha’atel brothers desperately tried to save their parents using the "
+"knowledge they had acquired. However, they came face-to-face with both their "
+"inexperience and helplessness. As their parents’ condition gradually, yet "
+"unmistakably, worsened, Nati began to despair at the relentless passage of "
+"time. Meanwhile, Gwiti, driven to madness, frantically searched through "
+"magical tomes for a way to save their future."
+msgstr ""
+"しかし、皮肉な事に、彼らの運命は平穏とは真逆でした。Wesnoth 歴 1094 年、彼ら"
+"が修業を終え、医者としての一歩を踏み出そうとした矢先、Wesnoth を黒死病が襲い"
+"ました。貧富の差に関係なく、この天災は多くの犠牲を生み出しました。そして "
+"Gwiti と Nati の両親も、この恐ろしい病に蝕まれました。\n"
+"\n"
+"二人の Ha’atel は自分達の知識によって両親を救おうとしました。しかし彼らは自分"
+"たちの経験不足と無力さを同時に知りました。両親の病状が徐々に、しかし明らかに"
+"悪化する中で、Nati は時の流れに絶望し始めました。一方 Gwiti は、死に物狂いで"
+"魔法の書物をかき集め、両親の未来を救う方法を探しました。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:28
+msgid ""
+"The final tome Gwiti reached was a journal written by one of the corrupted "
+"sorcerers. He poured all of his efforts into studying the decayed "
+"manuscript, dedicating himself entirely to mastering its magic. Ultimately, "
+"Gwiti succeeded in completing an immortality spell that would bind his "
+"parents’ lives to this world forever. However, just before performing the "
+"ritual, Nati noticed Gwiti’s suspicious behavior. He condemned Gwiti’s "
+"attempt, declaring it an act that violated the natural order. In the midst "
+"of their argument, their parents’ condition suddenly took a turn for the "
+"worse, and soon after, they passed away."
+msgstr ""
+"Gwiti の最後に到達した書物は、堕落した魔法使いの一人が記した手記でした。彼は"
+"その朽ちた読み物を研究し、全ての労力を注ぎ込み、その魔法を習得しました。最終"
+"的に、Gwiti は両親の命をこの世界に永遠に固定する、不老不死の呪文を完成させま"
+"した。しかし、その儀式を行う直前に、Nati が Gwiti の不審な行動に気付きまし"
+"た。彼は Gwiti の試みを、自然の摂理に反する行為として非難しました。そして、二"
+"人が口論している途中、兄弟の両親の容体は急変し、やがて命を落としました。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:32
+msgid ""
+"After their parents’ deaths, Gwiti severed all ties with his brother. He "
+"firmly believed that, had Nati not interfered, their parents would have "
+"survived. Clinging to this belief was the only way he could calm his "
+"tormented mind. Gwiti abandoned his smile, forsook his happiness, and "
+"resolved to live relying solely on his own strength. Whether driven by this "
+"resolve or not, he volunteered as a military physician and began a life "
+"constantly surrounded by the battlefield."
+msgstr ""
+"両親の死後、Gwiti は彼の兄弟と一切の関係を断ちました。Nati の介入がなければ、"
+"両親は必ず生き延びていたはずだと、彼は固く信じました。そう思う他に気持ちを落"
+"ち着かせる選択肢はありませんでした。Gwiti は笑顔を捨て、幸せを捨て、自分だけ"
+"の力で生きる事を決意しました。その決意が関係したのか、彼は軍医に志願し、戦場"
+"に常に身を投じる道を歩み始めました。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:35
+msgid ""
+"Meanwhile, Nati remained deeply concerned about Gwiti, who seemed determined "
+"to lead a life devoid of human warmth. At the same time, Nati found himself "
+"dwelling on the book, the root of all their misfortune, that he had taken "
+"from Gwiti and sealed away. Several months after the tragedy, still "
+"tormented by his thoughts, he absentmindedly flipped through the pages of "
+"the tome. That proved to be a fatal mistake for Nati. In that moment, the "
+"remnants of Gwiti’s experiments and the sinister curse clinging to the book "
+"invaded his mind simultaneously..."
+msgstr ""
+"一方、Nati は、人間としての温かさを失った人生を望む Gwiti の事を心配に思って"
+"いました。同時に、Nati は自らが Gwiti の手から奪い、封じ込めた、全ての元凶と"
+"なったあの書物について、しばらく考えていました。そして、悲劇から数か月経った"
+"頃、思い悩んだ彼は、その書のページをふと捲りました。それは Nati にとって致命"
+"的な失敗でした。その時、彼の精神に、Gwiti の残した実験の痕跡、そして書物にこ"
+"びり付いた陰湿な呪いが同時に侵入したのです......"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:40
+msgid ""
+"In the early summer of 1095 YW, the Ha’atel brothers were dispatched to "
+"Erzen’s Stone, a Wesnothian frontier outpost. Gwiti harbored complicated "
+"feelings toward Nati, who had followed in his footsteps to become a military "
+"physician. At the same time, he couldn’t help but feel a sense of unease "
+"regarding Nati’s occasional suspicious behavior and the vast, unsettling "
+"magical knowledge his brother now seemed to possess.\n"
+"\n"
+"Then, one day, an incident occurred that would remain forever etched in "
+"Gwiti’s memory. A massive army of northern orcs launched a night assault on "
+"Erzen’s Stone. The overwhelming and merciless invasion annihilated the "
+"garrison within a single night. The battlefield was stained red with blood, "
+"and the lifeless bodies of fallen soldiers lay scattered across the ground. "
+"It was in this moment that Gwiti experienced true fear for the first time."
+msgstr ""
+"Wesnoth 歴 1095 年の初夏、Ha’atel 兄弟は Erzen の石と呼ばれる Wesnoth の前哨"
+"基地へ派遣されました。Gwiti は自らを追って軍医となった Nati に対し、複雑な感"
+"情を抱いていました。しかし、同時に、Nati が時折見せる不審な行動や、異様なまで"
+"の、そして膨大な彼の魔法の知識に、若干の懸念を覚えざるを得ませんでした。\n"
+"\n"
+"そしてある日、Gwiti にとって永遠に記憶に残るであろう事件が起こりました。北方"
+"のオークの大軍勢が Erzen の石に対して夜襲を仕掛けたのです。彼らの強大で、情け"
+"を知らない侵略によって、要塞の衛兵達は一夜にして壊滅しました。戦場は血によっ"
+"て赤く染まり、辺りには犠牲となった兵士達が倒れていました。Gwiti はこの時初め"
+"て、本当の恐怖を体験しました。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:46
+msgid ""
+"However, Gwiti was saved from the depths of despair in a way he could never "
+"have anticipated. It came with the screams and dying cries of the orcish "
+"warriors echoing across the battlefield. What Gwiti witnessed was Nati "
+"raising their fallen allies from the brink of death, commanding them as "
+"undead soldiers to fight once more. The battlefield, now teeming with "
+"corpses, skeletons, and wandering souls, had transformed into nothing short "
+"of a hellish nightmare. The orcs, overcome by fear and chaos, quickly fell "
+"into disarray, and the tide of the battle turned."
+msgstr ""
+"しかし Gwiti は、彼にとって全く予想外の形で、絶望の底から救われました。それ"
+"は、戦場に鳴り響くオークの戦士達の悲鳴、そして断末魔でした。Gwiti が目にした"
+"のは、Nati が、かつての味方を死の淵から蘇らせ、不死の兵士として操り、戦わせて"
+"いる光景でした。死体や骸骨、魂が入り乱れた戦場は、控えめに言っても地獄絵図と"
+"化していました。オーク達は恐怖と混乱に陥り、一気に戦局は逆転しました。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:50
+msgid ""
+"After a moment of profound shock, Gwiti recalled the unease he had felt "
+"toward Nati. Indeed, Nati had been consumed by his pursuit of the forbidden "
+"knowledge within that cursed tome, spiraling into corruption. Yet, in the "
+"end, Gwiti joined Nati, summoning the undead and giving them orders. In "
+"other words, at that critical moment, Gwiti chose to trust Nati once again "
+"as his brother. To Gwiti’s eyes, it was undeniable that Nati had fallen into "
+"irredeemable evil. And yet, he leaned on him, choosing to stand alongside "
+"him. After all, Gwiti realized anew that Nati was the only family he had "
+"left in this world."
+msgstr ""
+"Gwiti は激しく動揺した後、Nati に対する彼の懸念を思い出しました。実際、Nati "
+"はあの書物の知識の追求に身を埋め、堕落していたのでした。しかし結局、Gwiti は "
+"Nati と共にアンデッドを召還し、彼らに命令を与えました。言い換えれば、彼はこの"
+"土壇場で、Nati を再び兄として信じたのです。Gwiti の目には、Nati が救いようが"
+"ない邪悪へ堕落している事は明らかでした。それでも、彼は Nati に頼り、行動を共"
+"にしました。Gwiti は、もはや地上に残された肉親が Nati だけである事を再認識し"
+"たからです。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:53
+msgid ""
+"However, their actions were both forbidden and reckless. Amidst the chaos, "
+"the cavalry reinforcements arriving at Erzen collided not with the orcs, but "
+"with the undead summoned by the brothers. The battle devolved into "
+"uncontrolled carnage, with no distinction between friend and foe. What "
+"followed was a long and harrowing stretch of relentless violence, until "
+"Erzen was reduced to ruins. Nothing remained but rubble and countless "
+"casualties. Realizing that his forces were facing defeat, Nati abandoned "
+"Gwiti and fled, leaving his brother behind."
+msgstr ""
+"しかし彼らの行動は禁じ手であり、軽率でもありました。混乱の渦中で、援軍として "
+"Erzen へ到着した騎兵隊が、オークではなく、兄弟の呼び出したアンデッドと衝突し"
+"たのです。戦いは敵味方の区別もつかぬまま繰り広げられました。それから長く、凄"
+"惨な時間がただひたすら過ぎた後、Erzen は廃墟と化し、瓦礫と犠牲のみが残りまし"
+"た。Nati は自らの勢力が敗北を喫していると感じ、Gwiti を一人捨てて逃走しまし"
+"た。"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:56
+msgid ""
+"Isolated and alone, Gwiti was captured as an enemy of the kingdom. During "
+"his torture, he desperately cried out for Nati’s name. The Ha’atel brothers’ "
+"reunion would come at the moment of their judgment. The people of Wesnoth, "
+"terrified of their magic, decided to condemn them to a fate of certain "
+"death: banishment to the sea, where they would be left to drown. Mercy was "
+"not an option. The same people who had once respected them as physicians now "
+"mocked and despised them.\n"
+"\n"
+"Naturally, Gwiti began to harbor a growing hatred and rage toward those "
+"still living. But for Nati, consumed by the curse of the tome, such thoughts "
+"no longer occurred. Even when ordered by soldiers, he refused to let go of "
+"the book, clinging to it desperately, earning only looks of contempt and "
+"resignation from those around him."
+msgstr ""
+"孤立した Gwiti は王国の敵として捕らえられました。彼は裁きを受けている間、必死"
+"で Nati の名を叫びました。Ha’atel 兄弟の再会は、彼らに与えられた最後の時でし"
+"た。Wesnoth の人々は彼らの魔法を恐れ、確実に破滅させるべく、海へ追放し、溺死"
+"させる事に決めたのです。誰も彼らに慈悲は与えませんでした。それまで彼らを医者"
+"として尊敬していた人々が、彼らを侮蔑し、嫌悪し始めたのです。\n"
+"\n"
+"当然の事ながら、Gwiti はそんな人々、生きている者達に対しての憎しみと怒りを育"
+"て始めました。しかし、書の呪いに染まった Nati には、もはやそんな発想すら浮か"
+"びませんでした。彼は兵士から命令されても、書を決して手放そうとせず、人々から"
+"蔑みと諦めの目で眺められていました。"
+
+#. [part]
+#. [scenario]: id=01_Revelations
+#: The_Dark_Hordes/macros/storytxt.cfg:62
+#: The_Dark_Hordes/macros/storytxt.cfg:214
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:5
+msgid "Revelations"
+msgstr "黙示"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:63
+msgid ""
+"The two were placed aboard a rotting, rudderless ship and cast toward the "
+"sea, a passage meant to end in death. However, the Mistress of Fate herself "
+"intervened. A sudden storm engulfed the vessel carrying Gwiti and Nati. The "
+"ship was torn apart, and the brothers were swallowed by the furious waves, "
+"separated amidst the chaos. Gwiti’s cries echoed through the storm before "
+"they were silenced. Eventually, each brother washed ashore on separate "
+"lands. Not even Gwiti could have known that this was the beginning of the "
+"Rise of the Dark Hordes..."
+msgstr ""
+"二人は朽ち果てた、舵のない船に乗せられました。そして、死に繋がる海へ向かって"
+"送り出されました。しかし、運命を司る女主人は、彼らに介入しました。突然の嵐"
+"が、Gwiti と Nati を乗せた船を襲ったのです。船はバラバラに分解し、兄弟は荒波"
+"に飲まれ、離れ離れになりました。Gwiti の叫び声だけが嵐の中で轟いていました。"
+"そして彼らは最終的に、それぞれ別々の陸地へ漂着を遂げたのです。これこそが暗黒"
+"の大軍団の蜂起の始まりである事を、Gwiti すらも知りませんでした......"
+
+#. [part]
+#. [message]: speaker=Gwiti Ha'atel
+#. [message]: speaker=narrator
+#. [message]: speaker=Xabrak
+#. [message]: speaker=Grakarat
+#. [message]: speaker=unit
+#. [message]: speaker=Arkal-Thil
+#. [message]: speaker=Mal-Elena
+#. [unit_type]: id=Deathmaster, race=human
+#. [unit_type]: id=Grimreaper
+#. [unit_type]: id=Demilich, race=undead
+#. [unit_type]: id=Dread Lich, race=undead
+#. [unit_type]: id=Initiate, race=human
+#: The_Dark_Hordes/macros/storytxt.cfg:72
+#: The_Dark_Hordes/macros/storytxt.cfg:76
+#: The_Dark_Hordes/macros/storytxt.cfg:85
+#: The_Dark_Hordes/macros/storytxt.cfg:89
+#: The_Dark_Hordes/macros/storytxt.cfg:98
+#: The_Dark_Hordes/macros/storytxt.cfg:102
+#: The_Dark_Hordes/macros/storytxt.cfg:111
+#: The_Dark_Hordes/macros/storytxt.cfg:114
+#: The_Dark_Hordes/macros/storytxt.cfg:118
+#: The_Dark_Hordes/macros/storytxt.cfg:128
+#: The_Dark_Hordes/macros/storytxt.cfg:138
+#: The_Dark_Hordes/macros/storytxt.cfg:156
+#: The_Dark_Hordes/macros/storytxt.cfg:160
+#: The_Dark_Hordes/macros/storytxt.cfg:170
+#: The_Dark_Hordes/macros/storytxt.cfg:179
+#: The_Dark_Hordes/macros/storytxt.cfg:183
+#: The_Dark_Hordes/macros/storytxt.cfg:193
+#: The_Dark_Hordes/macros/storytxt.cfg:202
+#: The_Dark_Hordes/macros/storytxt.cfg:206
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:130
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:134
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:151
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:174
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:178
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:200
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:211
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:221
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:246
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:250
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:255
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:294
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:304
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:342
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:346
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:351
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:355
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:359
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:371
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:387
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:400
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:413
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:423
+#: The_Dark_Hordes/units/Deathmaster.cfg:19
+#: The_Dark_Hordes/units/Deathmaster.cfg:245
+#: The_Dark_Hordes/units/Demilich.cfg:25
+#: The_Dark_Hordes/units/Dread_Lich.cfg:26
+#: The_Dark_Hordes/units/Initiate.cfg:19
+msgid "..."
+msgstr "..."
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:75
+msgid "Fratricide"
+msgstr "兄殺し"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:88
+msgid "The Pursuit of Loss"
+msgstr "亡失の追求"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:101
+msgid "Legacies from Crelanu"
+msgstr "Crelanu の遺産"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:117
+msgid "The Forgotten"
+msgstr "忘れ形見"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:126
+msgid "A False Rebirth"
+msgstr "偽りの復活"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:136
+msgid "To Eternal Death"
+msgstr "永遠の死へ"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:146
+msgid "Return to the Shadows"
+msgstr "暗影への帰還"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:159
+msgid "Mages Must Die"
+msgstr "魔術師死すべし"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:168
+msgid "Elynia"
+msgstr "Elynia"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:182
+msgid "A Night for Wesnoth"
+msgstr "Wesnoth の夜"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:191
+msgid "Northern Assassins"
+msgstr "北よりの刺客"
+
+#. [part]
+#: The_Dark_Hordes/macros/storytxt.cfg:205
+msgid "The Last One"
+msgstr "最後の者"
+
+#. [message]: speaker=narrator
+#: The_Dark_Hordes/macros/utils.cfg:63
+msgid "male^Mysterious Voice"
+msgstr "神秘的な声"
+
+#. [objective]: condition=win
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:21
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:262
+msgid "Defeat both enemy leaders"
+msgstr "両方の敵のリーダーを倒す"
+
+#. [objective]: condition=lose
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:25
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:266
+msgid "Death of Gwiti Ha’atel"
+msgstr "Gwiti Ha’atel の死"
+
+#. [side]: type=Initiate, id=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:46
+msgid "Gwiti Ha’atel"
+msgstr "Gwiti Ha’atel"
+
+#. [side]: type=Initiate, id=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:54
+msgid "team_name^Gwiti"
+msgstr "Gwiti"
+
+#. [side]: type=Naga Warrior, id=Xabrak
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:63
+msgid "Xabrak"
+msgstr "Xabrak"
+
+#. [side]: type=Naga Warrior, id=Xabrak
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:76
+msgid "team_name^Xabrak"
+msgstr "Xabrak"
+
+#. [side]: type=Ogre, id=Grakarat
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:87
+msgid "Grakarat"
+msgstr "Grakarat"
+
+#. [side]: type=Ogre, id=Grakarat
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:101
+msgid "team_name^Grakarat"
+msgstr "Grakarat"
+
+#. [unit]: type=Ogre, id=Rek Iceheart
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:108
+msgid "Rek Iceheart"
+msgstr "Rek Iceheart"
+
+#. [unit]: id=Arkal-Thil, type=Dark Adept
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:227
+msgid "Arkal-Thil"
+msgstr "Arkal-Thil"
+
+#. [objective]: condition=lose
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:270
+msgid "Death of Arkal-Thil"
+msgstr "Arkal-Thil の死"
+
+#. [unit]: id=Mal-Elena, type=Footpad, gender=female
+#: The_Dark_Hordes/scenarios/01_Revelations.cfg:310
+msgid "Mal-Elena"
+msgstr "Mal-Elena"
+
+#. [unit_type]: id=Deathmaster, race=human
+#: The_Dark_Hordes/units/Deathmaster.cfg:5
+msgid "Deathmaster"
+msgstr "死人使い"
+
+#. [unit_type]: id=Grimreaper
+#: The_Dark_Hordes/units/Deathmaster.cfg:237
+msgid "Grimreaper"
+msgstr "死に神"
+
+#. [unit_type]: id=Demilich, race=undead
+#: The_Dark_Hordes/units/Demilich.cfg:5
+msgid "Demilich"
+msgstr "デミリッチ"
+
+#. [unit_type]: id=Dread Lich, race=undead
+#: The_Dark_Hordes/units/Dread_Lich.cfg:5
+msgid "Dread Lich"
+msgstr "恐怖のリッチ"
+
+#. [unit_type]: id=Initiate, race=human
+#: The_Dark_Hordes/units/Initiate.cfg:5
+msgid "Initiate"
+msgstr "下級術師"
+
+#~ msgid "Warning!"
+#~ msgstr "注意！"
+
+#, fuzzy
+#~ msgid ""
+#~ "Some scenarios of this campaign work significantly different from normal "
+#~ "Wesnoth gameplay. It is especially important to pay close attention to "
+#~ "the mission objectives and not necessarily try to kill every single "
+#~ "enemy, especially on shrouded maps, or in places where enemies seem to "
+#~ "respawn continuously."
+#~ msgstr ""
+#~ "Some scenarios of this campaign work significantly different from normal "
+#~ "Wesnoth gameplay. It is especially important to pay close attention to "
+#~ "the mission objectives and not necessarily try to kill every single "
+#~ "enemy, especially on shrouded maps, or in places where enemies seem to "
+#~ "respawn continuously."
+
+#, fuzzy
+#~ msgid ""
+#~ "Although not strictly required, players are advised to become familiar "
+#~ "with the stories, characters, and historical events presented in "
+#~ "<i>Invasion from the Unknown</i> and <i>After the Storm</i> before "
+#~ "playing this campaign."
+#~ msgstr ""
+#~ "Although not strictly required, players are advised to become familiar "
+#~ "with the stories, characters, and historical events presented in "
+#~ "<i>Invasion from the Unknown</i> and <i>After the Storm</i> before "
+#~ "playing this campaign."
+
+#, fuzzy
+#~ msgid ""
+#~ "A game screen resolution of <b>800x600 or greater</b> is recommended. "
+#~ "Certain sequences make use of floating labels, halos, and standing unit "
+#~ "animations, so you might want to make sure these options are enabled "
+#~ "under <b>Preferences</b> → <b>Display</b>."
+#~ msgstr ""
+#~ "A game screen resolution of <b>800x600 or greater</b> is recommended. "
+#~ "Certain sequences make use of floating labels, halos, and standing unit "
+#~ "animations, so you might want to make sure these options are enabled "
+#~ "under <b>Preferences</b> → <b>Display</b>."
+
+#, fuzzy
+#~ msgid ""
+#~ "<b>If you have not completed Episode I of <i>The Dark Hordes</i>, you "
+#~ "definitely should not play this episode yet.</b>"
+#~ msgstr ""
+#~ "<b>If you have not completed Episode I of <i>The Dark Hordes</i>, you "
+#~ "definitely should not play this episode yet.</b>"
