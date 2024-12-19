@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-12-18 12:54 UTC\n"
+"POT-Creation-Date: 2024-12-19 08:54 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -132,8 +132,28 @@ msgid "Graphics"
 msgstr ""
 
 #. [about]
-#: The_Dark_Hordes/about.cfg:63
+#: The_Dark_Hordes/about.cfg:67
+msgid "Music"
+msgstr ""
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:82
+msgid "Japanese Translation"
+msgstr ""
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:88
 msgid "Additional thanks to"
+msgstr ""
+
+#. [entry]
+#: The_Dark_Hordes/about.cfg:142
+msgid "You, for playing this campaign"
+msgstr ""
+
+#. [entry]
+#: The_Dark_Hordes/about.cfg:145
+msgid "Anyone else I forgot to mention"
 msgstr ""
 
 #. [part]
@@ -188,7 +208,7 @@ msgid "However, their actions were both forbidden and reckless. Amidst the chaos
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:56
+#: The_Dark_Hordes/macros/storytxt.cfg:57
 msgid ""
 "Isolated and alone, Gwiti was captured as an enemy of the Kingdom. During his torture, he desperately cried out for Nati’s name. The Ha’atel brothers’ reunion would come at the moment of their judgment. The people of Wesnoth, terrified of their magic, decided to condemn them to the fate of certain death: banishment to the sea, where they would be left to drown. Mercy was not an option. The same people who had once respected them as physicians now mocked and despised them.\n"
 "\n"
@@ -197,121 +217,101 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=01_A_New_Chance
-#: The_Dark_Hordes/macros/storytxt.cfg:62
+#: The_Dark_Hordes/macros/storytxt.cfg:63
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:5
 msgid "A New Chance"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:63
+#: The_Dark_Hordes/macros/storytxt.cfg:64
 msgid "The two were placed aboard the rotting, rudderless ship and cast toward the sea, their passage meant to end in death. However, the Lady of Fate herself intervened with them. A sudden storm engulfed the vessel carrying Gwiti and Nati. The ship was torn apart, and the brothers were swallowed by the furious waves, separated amidst the chaos. Gwiti’s cries echoed through the storm before they were silenced. Eventually, each brother washed ashore on separate lands. Not even Gwiti could have known that this was the beginning of the Rise of the Dark Hordes..."
 msgstr ""
 
 #. [part]
-#. [message]: speaker=Arkal-Thil
-#. [message]: speaker=Mal-Elena
-#. [message]: speaker=Gwiti Ha'atel
-#. [unit_type]: id=Deathmaster, race=human
-#. [unit_type]: id=Grimreaper
-#. [unit_type]: id=Demilich, race=undead
-#. [unit_type]: id=Dread Lich, race=undead
-#. [unit_type]: id=Initiate, race=human
-#: The_Dark_Hordes/macros/storytxt.cfg:72
-#: The_Dark_Hordes/macros/storytxt.cfg:76
-#: The_Dark_Hordes/macros/storytxt.cfg:85
-#: The_Dark_Hordes/macros/storytxt.cfg:89
-#: The_Dark_Hordes/macros/storytxt.cfg:98
-#: The_Dark_Hordes/macros/storytxt.cfg:102
-#: The_Dark_Hordes/macros/storytxt.cfg:111
-#: The_Dark_Hordes/macros/storytxt.cfg:114
-#: The_Dark_Hordes/macros/storytxt.cfg:118
-#: The_Dark_Hordes/macros/storytxt.cfg:128
-#: The_Dark_Hordes/macros/storytxt.cfg:138
-#: The_Dark_Hordes/macros/storytxt.cfg:156
-#: The_Dark_Hordes/macros/storytxt.cfg:160
-#: The_Dark_Hordes/macros/storytxt.cfg:170
-#: The_Dark_Hordes/macros/storytxt.cfg:179
-#: The_Dark_Hordes/macros/storytxt.cfg:183
-#: The_Dark_Hordes/macros/storytxt.cfg:193
-#: The_Dark_Hordes/macros/storytxt.cfg:202
-#: The_Dark_Hordes/macros/storytxt.cfg:206
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:322
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:360
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:365
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:370
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:374
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:378
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:391
-#: The_Dark_Hordes/units/Deathmaster.cfg:19
-#: The_Dark_Hordes/units/Deathmaster.cfg:246
-#: The_Dark_Hordes/units/Demilich.cfg:25
-#: The_Dark_Hordes/units/Dread_Lich.cfg:26
-#: The_Dark_Hordes/units/Initiate.cfg:19
+#: The_Dark_Hordes/macros/storytxt.cfg:73
+#: The_Dark_Hordes/macros/storytxt.cfg:77
+#: The_Dark_Hordes/macros/storytxt.cfg:86
+#: The_Dark_Hordes/macros/storytxt.cfg:90
+#: The_Dark_Hordes/macros/storytxt.cfg:99
+#: The_Dark_Hordes/macros/storytxt.cfg:103
+#: The_Dark_Hordes/macros/storytxt.cfg:112
+#: The_Dark_Hordes/macros/storytxt.cfg:115
+#: The_Dark_Hordes/macros/storytxt.cfg:119
+#: The_Dark_Hordes/macros/storytxt.cfg:129
+#: The_Dark_Hordes/macros/storytxt.cfg:139
+#: The_Dark_Hordes/macros/storytxt.cfg:157
+#: The_Dark_Hordes/macros/storytxt.cfg:161
+#: The_Dark_Hordes/macros/storytxt.cfg:171
+#: The_Dark_Hordes/macros/storytxt.cfg:180
+#: The_Dark_Hordes/macros/storytxt.cfg:184
+#: The_Dark_Hordes/macros/storytxt.cfg:194
+#: The_Dark_Hordes/macros/storytxt.cfg:203
+#: The_Dark_Hordes/macros/storytxt.cfg:207
 msgid "..."
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:75
+#: The_Dark_Hordes/macros/storytxt.cfg:76
 msgid "Brother Against Brother"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:88
+#: The_Dark_Hordes/macros/storytxt.cfg:89
 msgid "The Skull of Morgorath"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:101
+#: The_Dark_Hordes/macros/storytxt.cfg:102
 msgid "Mages and Elves"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:117
+#: The_Dark_Hordes/macros/storytxt.cfg:118
 msgid "The Book of Crelanu"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:126
+#: The_Dark_Hordes/macros/storytxt.cfg:127
 msgid "Confrontation"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:136
+#: The_Dark_Hordes/macros/storytxt.cfg:137
 msgid "Death and Rebirth"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:146
+#: The_Dark_Hordes/macros/storytxt.cfg:147
 msgid "Return to the Shadows"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:159
+#: The_Dark_Hordes/macros/storytxt.cfg:160
 msgid "Assault on Alduin"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:168
+#: The_Dark_Hordes/macros/storytxt.cfg:169
 msgid "Elynia"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:182
+#: The_Dark_Hordes/macros/storytxt.cfg:183
 msgid "A Night for Wesnoth"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:191
+#: The_Dark_Hordes/macros/storytxt.cfg:192
 msgid "Northern Assassins"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:205
+#: The_Dark_Hordes/macros/storytxt.cfg:206
 msgid "The End of Blood"
 msgstr ""
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:214
+#: The_Dark_Hordes/macros/storytxt.cfg:215
 msgid "Revelations"
 msgstr ""
 
@@ -439,7 +439,7 @@ msgstr ""
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:269
-msgid "It would be easier to understand if I say that it is revenge against all the corrupt living? You and other survivors of yours have all been oppressed by the mighty. I need that kind of anger, that kind of grief."
+msgid "It would be easier to understand if I say that it is revenge against all the corrupt living? You and other survivors of yours have all been oppressed by the mighty... right? I need that kind of anger, that kind of grief."
 msgstr ""
 
 #. [message]: speaker=Arkal-Thil
@@ -455,6 +455,29 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:312
 msgid "Argh! I was vanquished!"
+msgstr ""
+
+#. [message]: speaker=Arkal-Thil
+#. [message]: speaker=Mal-Elena
+#. [message]: speaker=Gwiti Ha'atel
+#. [unit_type]: id=Deathmaster, race=human
+#. [unit_type]: id=Grimreaper
+#. [unit_type]: id=Demilich, race=undead
+#. [unit_type]: id=Dread Lich, race=undead
+#. [unit_type]: id=Initiate, race=human
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:322
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:360
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:365
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:370
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:374
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:378
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:391
+#: The_Dark_Hordes/units/Deathmaster.cfg:19
+#: The_Dark_Hordes/units/Deathmaster.cfg:246
+#: The_Dark_Hordes/units/Demilich.cfg:25
+#: The_Dark_Hordes/units/Dread_Lich.cfg:26
+#: The_Dark_Hordes/units/Initiate.cfg:19
+msgid "FIXME"
 msgstr ""
 
 #. [unit]: id=Mal-Elena, type=Footpad, gender=female
