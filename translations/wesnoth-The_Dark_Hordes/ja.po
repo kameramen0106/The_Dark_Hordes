@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-12-18 12:54 UTC\n"
-"PO-Revision-Date: 2024-12-18 21:54+0900\n"
+"POT-Creation-Date: 2024-12-19 08:54 UTC\n"
+"PO-Revision-Date: 2024-12-19 17:56+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -154,9 +154,29 @@ msgid "Graphics"
 msgstr "美術"
 
 #. [about]
-#: The_Dark_Hordes/about.cfg:63
+#: The_Dark_Hordes/about.cfg:67
+msgid "Music"
+msgstr "音楽"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:82
+msgid "Japanese Translation"
+msgstr "日本語翻訳"
+
+#. [about]
+#: The_Dark_Hordes/about.cfg:88
 msgid "Additional thanks to"
 msgstr "追加の謝辞"
+
+#. [entry]
+#: The_Dark_Hordes/about.cfg:142
+msgid "You, for playing this campaign"
+msgstr "このキャンペーンをプレイしてくれた方"
+
+#. [entry]
+#: The_Dark_Hordes/about.cfg:145
+msgid "Anyone else I forgot to mention"
+msgstr "そして私がここで言及し忘れた全ての人々"
 
 #. [part]
 #: The_Dark_Hordes/macros/storytxt.cfg:18
@@ -342,7 +362,7 @@ msgstr ""
 "た。"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:56
+#: The_Dark_Hordes/macros/storytxt.cfg:57
 msgid ""
 "Isolated and alone, Gwiti was captured as an enemy of the Kingdom. During "
 "his torture, he desperately cried out for Nati’s name. The Ha’atel brothers’ "
@@ -371,13 +391,13 @@ msgstr ""
 
 #. [part]
 #. [scenario]: id=01_A_New_Chance
-#: The_Dark_Hordes/macros/storytxt.cfg:62
+#: The_Dark_Hordes/macros/storytxt.cfg:63
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:5
 msgid "A New Chance"
 msgstr "新たな凶兆"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:63
+#: The_Dark_Hordes/macros/storytxt.cfg:64
 msgid ""
 "The two were placed aboard the rotting, rudderless ship and cast toward the "
 "sea, their passage meant to end in death. However, the Lady of Fate herself "
@@ -396,110 +416,90 @@ msgstr ""
 "軍団の蜂起の始まりである事を、Gwiti すらも知りませんでした......"
 
 #. [part]
-#. [message]: speaker=Arkal-Thil
-#. [message]: speaker=Mal-Elena
-#. [message]: speaker=Gwiti Ha'atel
-#. [unit_type]: id=Deathmaster, race=human
-#. [unit_type]: id=Grimreaper
-#. [unit_type]: id=Demilich, race=undead
-#. [unit_type]: id=Dread Lich, race=undead
-#. [unit_type]: id=Initiate, race=human
-#: The_Dark_Hordes/macros/storytxt.cfg:72
-#: The_Dark_Hordes/macros/storytxt.cfg:76
-#: The_Dark_Hordes/macros/storytxt.cfg:85
-#: The_Dark_Hordes/macros/storytxt.cfg:89
-#: The_Dark_Hordes/macros/storytxt.cfg:98
-#: The_Dark_Hordes/macros/storytxt.cfg:102
-#: The_Dark_Hordes/macros/storytxt.cfg:111
-#: The_Dark_Hordes/macros/storytxt.cfg:114
-#: The_Dark_Hordes/macros/storytxt.cfg:118
-#: The_Dark_Hordes/macros/storytxt.cfg:128
-#: The_Dark_Hordes/macros/storytxt.cfg:138
-#: The_Dark_Hordes/macros/storytxt.cfg:156
-#: The_Dark_Hordes/macros/storytxt.cfg:160
-#: The_Dark_Hordes/macros/storytxt.cfg:170
-#: The_Dark_Hordes/macros/storytxt.cfg:179
-#: The_Dark_Hordes/macros/storytxt.cfg:183
-#: The_Dark_Hordes/macros/storytxt.cfg:193
-#: The_Dark_Hordes/macros/storytxt.cfg:202
-#: The_Dark_Hordes/macros/storytxt.cfg:206
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:322
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:360
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:365
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:370
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:374
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:378
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:391
-#: The_Dark_Hordes/units/Deathmaster.cfg:19
-#: The_Dark_Hordes/units/Deathmaster.cfg:246
-#: The_Dark_Hordes/units/Demilich.cfg:25
-#: The_Dark_Hordes/units/Dread_Lich.cfg:26
-#: The_Dark_Hordes/units/Initiate.cfg:19
+#: The_Dark_Hordes/macros/storytxt.cfg:73
+#: The_Dark_Hordes/macros/storytxt.cfg:77
+#: The_Dark_Hordes/macros/storytxt.cfg:86
+#: The_Dark_Hordes/macros/storytxt.cfg:90
+#: The_Dark_Hordes/macros/storytxt.cfg:99
+#: The_Dark_Hordes/macros/storytxt.cfg:103
+#: The_Dark_Hordes/macros/storytxt.cfg:112
+#: The_Dark_Hordes/macros/storytxt.cfg:115
+#: The_Dark_Hordes/macros/storytxt.cfg:119
+#: The_Dark_Hordes/macros/storytxt.cfg:129
+#: The_Dark_Hordes/macros/storytxt.cfg:139
+#: The_Dark_Hordes/macros/storytxt.cfg:157
+#: The_Dark_Hordes/macros/storytxt.cfg:161
+#: The_Dark_Hordes/macros/storytxt.cfg:171
+#: The_Dark_Hordes/macros/storytxt.cfg:180
+#: The_Dark_Hordes/macros/storytxt.cfg:184
+#: The_Dark_Hordes/macros/storytxt.cfg:194
+#: The_Dark_Hordes/macros/storytxt.cfg:203
+#: The_Dark_Hordes/macros/storytxt.cfg:207
 msgid "..."
 msgstr "..."
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:75
+#: The_Dark_Hordes/macros/storytxt.cfg:76
 msgid "Brother Against Brother"
 msgstr "兄弟対兄弟"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:88
+#: The_Dark_Hordes/macros/storytxt.cfg:89
 msgid "The Skull of Morgorath"
 msgstr "Morgorath の頭蓋骨"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:101
+#: The_Dark_Hordes/macros/storytxt.cfg:102
 msgid "Mages and Elves"
 msgstr "魔法使いとエルフ"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:117
+#: The_Dark_Hordes/macros/storytxt.cfg:118
 msgid "The Book of Crelanu"
 msgstr "Crelanu の書"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:126
+#: The_Dark_Hordes/macros/storytxt.cfg:127
 msgid "Confrontation"
 msgstr "対立"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:136
+#: The_Dark_Hordes/macros/storytxt.cfg:137
 msgid "Death and Rebirth"
 msgstr "死と新生"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:146
+#: The_Dark_Hordes/macros/storytxt.cfg:147
 msgid "Return to the Shadows"
 msgstr "影への帰還"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:159
+#: The_Dark_Hordes/macros/storytxt.cfg:160
 msgid "Assault on Alduin"
 msgstr "Alduin での殺戮"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:168
+#: The_Dark_Hordes/macros/storytxt.cfg:169
 msgid "Elynia"
 msgstr "Elynia"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:182
+#: The_Dark_Hordes/macros/storytxt.cfg:183
 msgid "A Night for Wesnoth"
 msgstr "Wesnoth の夜"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:191
+#: The_Dark_Hordes/macros/storytxt.cfg:192
 msgid "Northern Assassins"
 msgstr "北よりの刺客"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:205
+#: The_Dark_Hordes/macros/storytxt.cfg:206
 msgid "The End of Blood"
 msgstr "血の終焉"
 
 #. [part]
-#: The_Dark_Hordes/macros/storytxt.cfg:214
+#: The_Dark_Hordes/macros/storytxt.cfg:215
 msgid "Revelations"
 msgstr "黙示"
 
@@ -558,7 +558,7 @@ msgstr "Rek Iceheart"
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:131
 msgid "Ugh... Am I still breathing? My body still aches..."
-msgstr ""
+msgstr "うぐっ... 私は... まだ息をしているのか？まだ体中が痛む..."
 
 #. [message]: speaker=narrator
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:135
@@ -566,6 +566,8 @@ msgid ""
 "Gwiti gradually accepted that he had reached some strange beach. The area "
 "was quiet but the beastly smell had stayed."
 msgstr ""
+"Gwiti は徐々に、自分が見知らぬ海岸へ辿り着いた事を受け入れた。辺りは静まり"
+"返っていたが、獣の臭いが漂っていた。"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:152
@@ -574,6 +576,8 @@ msgid ""
 "of destiny is always ironic... Yet why is there no Nati by my side? Where "
 "has he gone?"
 msgstr ""
+"私の束縛は解けた。運命の企みはいつも皮肉だ、嫌になる程に... しかし私の隣に "
+"Nati がいないのは何故だ？彼はどこへ行ったのだ？"
 
 #. [message]: speaker=Xabrak
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:175
@@ -581,12 +585,14 @@ msgid ""
 "Hey! Look over there! A feeble necromancer is approaching us! But strange... "
 "I thought all the cults in this land were vanquished by us."
 msgstr ""
+"おい！あの場所を見ろ！弱々しい黒魔術師が接近している！しかし奇妙だ... この土"
+"地の教団は、全て我々が駆逐したと思っていたのに。"
 
 #. [message]: speaker=Grakarat
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:179
 msgid ""
 "I hate humans! I hate skeletons! But I love the feel of crushing their bones."
-msgstr ""
+msgstr "人間は嫌い！骸骨も嫌い！でも奴らの骨を砕く感触は大好き。"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:201
@@ -596,16 +602,19 @@ msgid ""
 "the ruin that I may evoke. But after I summon them, the time I have left may "
 "not be so long."
 msgstr ""
+"...... 今は、私は考える事を捨て、奴らの攻撃から生き延びなければならない。幸か"
+"不幸か、この廃墟には私が呼び起こす事のできる多くの亡骸が残っている。だが彼ら"
+"を召還した後、私に残された時間はそう長くないかもしれない。"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:212
 msgid "Our plunder ends... by the darkness..."
-msgstr ""
+msgstr "略奪が、俺達の略奪が終わる... 闇によって..."
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:222
 msgid "Who is hidden there? I wish you are on my side, though."
-msgstr ""
+msgstr "そこに隠れているのは誰だ？私の側にあって欲しいのだが。"
 
 #. [unit]: id=Arkal-Thil, type=Dark Adept
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:228
@@ -615,13 +624,13 @@ msgstr "Arkal-Thil"
 #. [message]: speaker=Arkal-Thil
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:247
 msgid "I almost got murdered by them..."
-msgstr ""
+msgstr "奴らに殺される手前だった......"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:252
 msgid ""
 "Who the hell are you? My guess is that you are the necromancer... right?"
-msgstr ""
+msgstr "お前は一体何者だ？私の予想では、お前はネクロマンサーだ... 違うか？"
 
 #. [message]: speaker=Arkal-Thil
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:257
@@ -630,24 +639,31 @@ msgid ""
 "the darkness who trained in this land. But those beasts came and slayed our "
 "master, and destroyed many of us."
 msgstr ""
+"確かに、そして私はあなたと同じ種類の人間です。私はこの土地で行を重ねる闇の信"
+"奉者の一人でした。しかしあの獣共がやって来て、我らの師を殺し、我らの多くを滅"
+"ぼしたのです。"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:261
 msgid "So, you want your new master? Then you should join my... uprising."
 msgstr ""
+"そして、お前は新しい師を求めている、と？ならば加わるべきだ... 私の蜂起へ。"
 
 #. [message]: speaker=Arkal-Thil
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:265
 msgid "Uprising? For what?"
-msgstr ""
+msgstr "蜂起？何の為に？"
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:269
 msgid ""
 "It would be easier to understand if I say that it is revenge against all the "
 "corrupt living? You and other survivors of yours have all been oppressed by "
-"the mighty. I need that kind of anger, that kind of grief."
+"the mighty... right? I need that kind of anger, that kind of grief."
 msgstr ""
+"腐った、生きている全ての連中への復讐、と言えば分かりやすいかな？お前やお前の"
+"他の生存者達は、全て強大な存在によって虐げられた... 違うか？私はその怒り、そ"
+"の悲愴を求めている。"
 
 #. [message]: speaker=Arkal-Thil
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:273
@@ -656,6 +672,9 @@ msgid ""
 "case, there is no reason to refuse. We will follow you. But in fact, there "
 "must be another one who is being held hostage by the ogre."
 msgstr ""
+"私に我々の過去を思い出させるとは、面白い皮肉ですね。違いますか？いずれにせ"
+"よ、拒否する理由はありません。我々はあなたに従います。しかし実の所、もう一"
+"人、オーガの人質となっている者がいるのですが。"
 
 #. [objective]: condition=lose
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:288
@@ -665,7 +684,30 @@ msgstr "Arkal-Thil の死"
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:312
 msgid "Argh! I was vanquished!"
-msgstr ""
+msgstr "あぐっ！俺... 敗れた。"
+
+#. [message]: speaker=Arkal-Thil
+#. [message]: speaker=Mal-Elena
+#. [message]: speaker=Gwiti Ha'atel
+#. [unit_type]: id=Deathmaster, race=human
+#. [unit_type]: id=Grimreaper
+#. [unit_type]: id=Demilich, race=undead
+#. [unit_type]: id=Dread Lich, race=undead
+#. [unit_type]: id=Initiate, race=human
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:322
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:360
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:365
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:370
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:374
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:378
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:391
+#: The_Dark_Hordes/units/Deathmaster.cfg:19
+#: The_Dark_Hordes/units/Deathmaster.cfg:246
+#: The_Dark_Hordes/units/Demilich.cfg:25
+#: The_Dark_Hordes/units/Dread_Lich.cfg:26
+#: The_Dark_Hordes/units/Initiate.cfg:19
+msgid "FIXME"
+msgstr "要修正"
 
 #. [unit]: id=Mal-Elena, type=Footpad, gender=female
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:328
@@ -675,12 +717,12 @@ msgstr "Mal-Elena"
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:407
 msgid "I perish here and now... Even though I have made my escape."
-msgstr ""
+msgstr "私はここで、今滅ぶ... 脱出したばかりにも関わらず。"
 
 #. [message]: speaker=unit
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:420
 msgid "I feel the shadows drawing me closer..."
-msgstr ""
+msgstr "ああ、影が私を呼び寄せて..."
 
 #. [message]: speaker=Gwiti Ha'atel
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:430
@@ -688,6 +730,8 @@ msgid ""
 "Apparently the Wesnothians noticed my escape and sent reinforcements here. "
 "All my luck has run out..."
 msgstr ""
+"Wesnoth 人が私の脱出に気付き、援軍をここへ派遣したらしい。私の運は全て尽き"
+"た..."
 
 #. [unit_type]: id=Deathmaster, race=human
 #: The_Dark_Hordes/units/Deathmaster.cfg:5
@@ -714,6 +758,56 @@ msgstr "恐怖のリッチ"
 msgid "Initiate"
 msgstr "下級術師"
 
+#~ msgid "Music add-on “<i>TDH Music</i>” is <b>not</b> currently installed."
+#~ msgstr "音楽アドオン「<i>TDH Music</i>」は現在<b>未インストール</b>です。"
+
+#~ msgid "Campaign Completion"
+#~ msgstr "キャンペーン完成作業"
+
+#~ msgid "Warning!"
+#~ msgstr "注意！"
+
+#~ msgid ""
+#~ "Some scenarios of this campaign work significantly different from normal "
+#~ "Wesnoth gameplay. It is especially important to pay close attention to "
+#~ "the mission objectives and not necessarily try to kill every single "
+#~ "enemy, especially on shrouded maps, or in places where enemies seem to "
+#~ "respawn continuously."
+#~ msgstr ""
+#~ "このキャンペーン中の一部のシナリオは、通常の Wesnoth のゲームプレイと著し"
+#~ "く異なる場合があります。特に、幕で覆われたマップや、敵が連続的に再配置され"
+#~ "る場所では、ミッションの目標に細心の注意を払い、必ずしも全ての敵を倒そうと"
+#~ "しない事が重要になります。"
+
+#~ msgid ""
+#~ "Although not strictly required, players are advised to become familiar "
+#~ "with the stories, characters, and historical events presented in "
+#~ "<i>Invasion from the Unknown</i> and <i>After the Storm</i> before "
+#~ "playing this campaign."
+#~ msgstr ""
+#~ "絶対に必須ではありませんが、このキャンペーンより前に「未知よりの侵略"
+#~ "（<i>Invasion from the Unknown</i>）」と「嵐の後（<i>After the Storm</"
+#~ "i>）」をプレイする事で、ストーリーやキャラクター、歴史的な出来事により親し"
+#~ "む事ができます。"
+
+#~ msgid ""
+#~ "A game screen resolution of <b>800x600 or greater</b> is recommended. "
+#~ "Certain sequences make use of floating labels, halos, and standing unit "
+#~ "animations, so you might want to make sure these options are enabled "
+#~ "under <b>Preferences</b> → <b>Display</b>."
+#~ msgstr ""
+#~ "画面解像度は <b>800x600 以上</b>をお勧めします。仕組みの一部はラベルや光"
+#~ "輪、ユニットのアニメーションを使用しています。ですので、正常な動作を希望す"
+#~ "る場合は、<i>設定</i> → <i>表示</i>からそれらのオプションを変更して下さ"
+#~ "い。"
+
+#~ msgid ""
+#~ "<b>If you have not completed Episode I of <i>The Dark Hordes</i>, you "
+#~ "definitely should not play this episode yet.</b>"
+#~ msgstr ""
+#~ "<b>もし<i>暗黒の大軍団</i>のエピソード I をプレイしていないなら、このエピ"
+#~ "ソードをプレイしない方が無難でしょう。</b>"
+
 #~ msgid "Fratricide"
 #~ msgstr "兄殺し"
 
@@ -734,52 +828,3 @@ msgstr "下級術師"
 
 #~ msgid "The Last One"
 #~ msgstr "最後の者"
-
-#~ msgid "Warning!"
-#~ msgstr "注意！"
-
-#, fuzzy
-#~ msgid ""
-#~ "Some scenarios of this campaign work significantly different from normal "
-#~ "Wesnoth gameplay. It is especially important to pay close attention to "
-#~ "the mission objectives and not necessarily try to kill every single "
-#~ "enemy, especially on shrouded maps, or in places where enemies seem to "
-#~ "respawn continuously."
-#~ msgstr ""
-#~ "Some scenarios of this campaign work significantly different from normal "
-#~ "Wesnoth gameplay. It is especially important to pay close attention to "
-#~ "the mission objectives and not necessarily try to kill every single "
-#~ "enemy, especially on shrouded maps, or in places where enemies seem to "
-#~ "respawn continuously."
-
-#, fuzzy
-#~ msgid ""
-#~ "Although not strictly required, players are advised to become familiar "
-#~ "with the stories, characters, and historical events presented in "
-#~ "<i>Invasion from the Unknown</i> and <i>After the Storm</i> before "
-#~ "playing this campaign."
-#~ msgstr ""
-#~ "Although not strictly required, players are advised to become familiar "
-#~ "with the stories, characters, and historical events presented in "
-#~ "<i>Invasion from the Unknown</i> and <i>After the Storm</i> before "
-#~ "playing this campaign."
-
-#, fuzzy
-#~ msgid ""
-#~ "A game screen resolution of <b>800x600 or greater</b> is recommended. "
-#~ "Certain sequences make use of floating labels, halos, and standing unit "
-#~ "animations, so you might want to make sure these options are enabled "
-#~ "under <b>Preferences</b> → <b>Display</b>."
-#~ msgstr ""
-#~ "A game screen resolution of <b>800x600 or greater</b> is recommended. "
-#~ "Certain sequences make use of floating labels, halos, and standing unit "
-#~ "animations, so you might want to make sure these options are enabled "
-#~ "under <b>Preferences</b> → <b>Display</b>."
-
-#, fuzzy
-#~ msgid ""
-#~ "<b>If you have not completed Episode I of <i>The Dark Hordes</i>, you "
-#~ "definitely should not play this episode yet.</b>"
-#~ msgstr ""
-#~ "<b>If you have not completed Episode I of <i>The Dark Hordes</i>, you "
-#~ "definitely should not play this episode yet.</b>"
