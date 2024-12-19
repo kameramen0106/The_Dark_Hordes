@@ -13,13 +13,12 @@ This is the tale of an age when the glory of Wesnoth was being transformed into 
 
 At last, the deadly forces brought by Gwiti launched their invasion against Wesnoth. As the shadows of his rule terrorize the Kingdom and its people, they turn to the elven enchantress Elynia for their last breath of hope. Will the Light or the Darkness be the one that stands in the end? There was no one who knew, except only one.
 
-(Intermediate level, 16 scenarios.)
+(Intermediate level, 14 scenarios.)
 
 After twenty years of development and stagnation, the oldest UMC was finally completed.
+
 
 How to Install
 --------------
 
-The latest version of the package is available on the Wesnoth 1.18 add-ons server. If you are familiar with Git, you may clone this repository and manually install it into your add-on directory.
-
-![gwiti](https://github.com/user-attachments/assets/fd954908-177b-4e3b-86c0-b5ae55a06dd3)
+The latest version of the package is available on the Wesnoth 1.18 add-ons server. If you are familiar with Git, you may clone this repository and manually install it into the add-ons directory.
