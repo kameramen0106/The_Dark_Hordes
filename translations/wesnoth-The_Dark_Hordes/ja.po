@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-12-19 08:54 UTC\n"
-"PO-Revision-Date: 2024-12-19 17:56+0900\n"
+"POT-Creation-Date: 2024-12-19 15:04 UTC\n"
+"PO-Revision-Date: 2024-12-20 00:04+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ja\n"
@@ -21,12 +21,12 @@ msgid "Feedback and bug reports:"
 msgstr "フィードバックとバグ報告:"
 
 #: The_Dark_Hordes/_main.cfg:25
-msgid "for Wesnoth 1.18.0 and later"
-msgstr "Wesnoth 1.18.0 以降用"
+msgid "for Wesnoth 1.18.2 and later"
+msgstr "Wesnoth 1.18.2 以降用"
 
 #: The_Dark_Hordes/_main.cfg:28
-msgid "for Wesnoth 1.19.0 and later (experimental)"
-msgstr "Wesnoth 1.19.0 以降用（試験的）"
+msgid "for Wesnoth 1.19.4 and later (experimental)"
+msgstr "Wesnoth 1.19.4 以降用（試験的）"
 
 #: The_Dark_Hordes/_main.cfg:41
 msgid "TDH"
@@ -177,6 +177,26 @@ msgstr "このキャンペーンをプレイしてくれた方"
 #: The_Dark_Hordes/about.cfg:145
 msgid "Anyone else I forgot to mention"
 msgstr "そして私がここで言及し忘れた全ての人々"
+
+#. [message]: speaker=unit
+#. [unit_type]: id=Deathmaster, race=human
+#. [unit_type]: id=Grimreaper
+#. [unit_type]: id=Demilich, race=undead
+#. [unit_type]: id=Dread Lich, race=undead
+#. [unit_type]: id=Initiate, race=human
+#: The_Dark_Hordes/macros/deaths.cfg:11 The_Dark_Hordes/macros/deaths.cfg:43
+#: The_Dark_Hordes/units/Deathmaster.cfg:19
+#: The_Dark_Hordes/units/Deathmaster.cfg:246
+#: The_Dark_Hordes/units/Demilich.cfg:25
+#: The_Dark_Hordes/units/Dread_Lich.cfg:26
+#: The_Dark_Hordes/units/Initiate.cfg:19
+msgid "FIXME"
+msgstr "要修正"
+
+#. [message]: speaker=unit
+#: The_Dark_Hordes/macros/deaths.cfg:27
+msgid "I feel the shadows drawing me closer..."
+msgstr "ああ、影が私を呼び寄せて..."
 
 #. [part]
 #: The_Dark_Hordes/macros/storytxt.cfg:18
@@ -668,12 +688,12 @@ msgstr ""
 #. [message]: speaker=Arkal-Thil
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:273
 msgid ""
-"It is quite an interesting irony that you remind me of our past. No? In any "
-"case, there is no reason to refuse. We will follow you. But in fact, there "
-"must be another one who is being held hostage by the ogre."
+"... It is quite an interesting irony that you remind me of our past. No? In "
+"any case, there is no reason to refuse. We will follow you. But in fact, "
+"there must be another one who is being held hostage by the ogre."
 msgstr ""
-"私に我々の過去を思い出させるとは、面白い皮肉ですね。違いますか？いずれにせ"
-"よ、拒否する理由はありません。我々はあなたに従います。しかし実の所、もう一"
+"... 私に我々の過去を思い出させるとは、面白い皮肉ですね。違いますか？いずれに"
+"せよ、拒否する理由はありません。我々はあなたに従います。しかし実の所、もう一"
 "人、オーガの人質となっている者がいるのですが。"
 
 #. [objective]: condition=lose
@@ -687,45 +707,101 @@ msgid "Argh! I was vanquished!"
 msgstr "あぐっ！俺... 敗れた。"
 
 #. [message]: speaker=Arkal-Thil
-#. [message]: speaker=Mal-Elena
-#. [message]: speaker=Gwiti Ha'atel
-#. [unit_type]: id=Deathmaster, race=human
-#. [unit_type]: id=Grimreaper
-#. [unit_type]: id=Demilich, race=undead
-#. [unit_type]: id=Dread Lich, race=undead
-#. [unit_type]: id=Initiate, race=human
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:322
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:360
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:365
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:370
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:374
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:378
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:391
-#: The_Dark_Hordes/units/Deathmaster.cfg:19
-#: The_Dark_Hordes/units/Deathmaster.cfg:246
-#: The_Dark_Hordes/units/Demilich.cfg:25
-#: The_Dark_Hordes/units/Dread_Lich.cfg:26
-#: The_Dark_Hordes/units/Initiate.cfg:19
-msgid "FIXME"
-msgstr "要修正"
+msgid "Miss! Are you hurt?"
+msgstr ""
 
 #. [unit]: id=Mal-Elena, type=Footpad, gender=female
 #: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:328
 msgid "Mal-Elena"
 msgstr "Mal-Elena"
 
+#. [message]: speaker=Mal-Elena
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:360
+msgid ""
+"Are you Arkal? Oh... I am alive. Is this some kind of joke? My father was "
+"killed, and all that remains is you and very few of us."
+msgstr ""
+
+#. [message]: speaker=Arkal-Thil
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:365
+msgid ""
+"There is no need to be so pessimistic. We already have our new master, my "
+"lady."
+msgstr ""
+
+#. [message]: speaker=Mal-Elena
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:369
+msgid ""
+"Are you referring to the necromancer standing next to you? I highly doubt he "
+"is as mighty as my father, though."
+msgstr ""
+
+#. [message]: speaker=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:373
+msgid ""
+"You mean, you are talking about me? Why did you people come to this land in "
+"the first place? Your pal claimed that this was the land for training."
+msgstr ""
+
+#. [message]: speaker=Mal-Elena
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:377
+msgid ""
+"Hmph! It seems that Arkal still does not completely trust you. As matter of "
+"fact, we fled to this land led by my father! My father was one of the mighty "
+"necromancers. But he was betrayed by one of his disciples, and he and we "
+"were forced to be targeted by the Wesnothians."
+msgstr ""
+
+#. [message]: speaker=Mal-Elena
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:381
+msgid ""
+"We decided to stay hidden here for some time, but the coming of the beasts "
+"was unexpected for us."
+msgstr ""
+
+#. [message]: speaker=Arkal-Thil
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:385
+msgid ""
+"I... thought they might have killed you. They are idiots who only think of "
+"taking our lives. But maybe the little reprieve they gave us should only be "
+"considered to have been expedient for us..."
+msgstr ""
+
+#. [message]: speaker=Mal-Elena
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:389
+msgid ""
+"Expedient? Do you even know what you are talking about? I almost lost my "
+"life in such an accursed land. Only because I am the daughter of "
+"necromancer, my life is in danger, and no one will save me. What more do you "
+"want from me, fatherless and without even the gift of sorcery?"
+msgstr ""
+
+#. [message]: speaker=Gwiti Ha'atel
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:401
+msgid ""
+"Shut up! Do not continue the conversation any further. We must leave this "
+"dangerous land soon. And I must be reunited with my brother soon. I have no "
+"time to listen to any more of your arguments."
+msgstr ""
+
+#. [message]: speaker=Mal-Elena
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:405
+msgid "This is ridiculous! Stay away from me now!"
+msgstr ""
+
+#. [message]: speaker=Arkal-Thil
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:416
+msgid "Miss! Where are you going?!"
+msgstr ""
+
 #. [message]: speaker=unit
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:407
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:433
 msgid "I perish here and now... Even though I have made my escape."
 msgstr "私はここで、今滅ぶ... 脱出したばかりにも関わらず。"
 
-#. [message]: speaker=unit
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:420
-msgid "I feel the shadows drawing me closer..."
-msgstr "ああ、影が私を呼び寄せて..."
-
 #. [message]: speaker=Gwiti Ha'atel
-#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:430
+#: The_Dark_Hordes/scenarios/01_A_New_Chance.cfg:446
 msgid ""
 "Apparently the Wesnothians noticed my escape and sent reinforcements here. "
 "All my luck has run out..."
