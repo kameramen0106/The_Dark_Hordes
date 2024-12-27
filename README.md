@@ -9,10 +9,8 @@ The Dark Hordes
 Description
 -----------
 
-Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes.
+Lead fugitive necromancer Gwiti Ha’atel to mastery of the undead hordes.
 
 (Intermediate level, 18 scenarios.)
 
-Originally made by Circon, edited by Bruno and pjr a long time ago, maintained by AI0867, and currently developed by KameRamen.
-
-![gwiti](https://github.com/user-attachments/assets/fd954908-177b-4e3b-86c0-b5ae55a06dd3)
+Originally created by Circon, long ago edited by Bruno and pjr, maintained by AI, and currently developed by KameRamen.
