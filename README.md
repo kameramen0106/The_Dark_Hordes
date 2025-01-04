@@ -15,4 +15,4 @@ Lead fugitive dark sorcerer Gwiti Ha’atel to mastery of the undead hordes.
 
 Originally created by Circon, long ago edited by Bruno and pjr, maintained by AI, and currently developed by KameRamen.
 
-Version 0.99.0, codename Reconstruction.
+Version 0.99.x, codename Reconstruction.
